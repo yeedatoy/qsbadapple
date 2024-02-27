@@ -27,7 +27,7 @@ jobs:
   uses: jojo243/android-gradle-action@2.1.3
   with:
     # The ./gradlew command arguments
-    script: 
+    script:badapple:bakeAssets
     # Your Android license agreement id
     android-license: # optional
           
